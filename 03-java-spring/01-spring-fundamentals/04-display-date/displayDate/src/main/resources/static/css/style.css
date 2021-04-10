@@ -1,0 +1,20 @@
+@charset "ISO-8859-1";
+.index {
+	text-align: center;
+	font-size: 35px;
+	margin: 25%;
+}
+
+.dateStyle {
+	text-align: center;
+	color: blue;
+	font-size: 25px;
+	margin: 10%;
+}
+
+.timeStyle {
+	text-align: center;
+	color: green;
+	font-size: 25px;
+	
+}
